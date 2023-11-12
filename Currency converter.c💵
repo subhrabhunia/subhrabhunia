@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main() {
+float Rupee,Dollar,Euro,Rubel,Yen;
+printf("Enter the value in Rupee:"); 
+scanf("%f", &Rupee);
+printf("The value in Dollar is: %f/n", Rupee*0.012);
+printf("The value in Euro is: %f/n", Rupee*0.011);
+printf("The value in Rubel is: %f/n", Rupee*1.16);
+printf("The value in Yen is: %f/n", Rupee*1.77);
+return 0;
+}
