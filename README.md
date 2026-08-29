@@ -255,7 +255,7 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="100%">
+<img src="./profile/trophy.svg" width="100%">
 
 </div>
 
@@ -271,7 +271,11 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
 
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%">
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"
+width="100%"
+>
 
 </picture>
 
@@ -305,7 +309,17 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <div align="center">
 
-`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Python` • `Git`
+`React.js`
+•
+`Node.js`
+•
+`Express.js`
+•
+`MongoDB`
+•
+`Python`
+•
+`Git`
 
 </div>
 
@@ -372,7 +386,7 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=subhrabhunia&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=subhrabhunia&label=PROFILE%20VIEWS&style=for-the-badge">
 
 </div>
 
@@ -387,6 +401,8 @@ A smart agriculture platform designed to help farmers make better decisions usin
 </div>
 
 <br>
+
+---
 
 <div align="center">
 
