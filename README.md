@@ -43,6 +43,37 @@ I am a BCA student passionate about Web Development, Software Development and Pr
 
 ## 🚀 Projects
 
+### 😷 Mask Detection System
+
+An AI-based Mask Detection System that detects whether a person is wearing a face mask or not.
+
+**Technologies:**
+Python • OpenCV • Machine Learning
+
+**Features:**
+- 😷 Face Mask Detection
+- 📷 Real-time Camera Detection
+- 🤖 AI-based Image Processing
+- ⚡ Fast Detection
+
+---
+
+### 📸 Photography Website
+
+A modern and responsive photography website designed to showcase photography, creative work, and visual stories.
+
+**Technologies:**
+HTML • CSS • JavaScript
+
+**Features:**
+- 📷 Photography Gallery
+- 🖼️ Image Showcase
+- 📱 Responsive Design
+- 🎨 Modern UI
+- 🌐 Portfolio Website
+
+---
+
 ### 🗳️ Online Voting System
 
 A secure Online Voting System developed using the MERN Stack.
@@ -50,11 +81,21 @@ A secure Online Voting System developed using the MERN Stack.
 **Technologies:**
 React • Vite • Node.js • Express.js • MongoDB
 
+**Features:**
+- 👤 User Registration & Login
+- 🔐 Secure Voting
+- 🗳️ Election Management
+- 👨‍💼 Admin Dashboard
+- 📊 Result Display
+
 ---
 
 ### 🌾 Smart Farmer Decision Support System
 
-A smart agriculture system designed to help farmers make better decisions using data and technology.
+A smart agriculture system designed to help farmers make better decisions using technology and data.
+
+**Technologies:**
+HTML • CSS • JavaScript • Python • Node.js • MongoDB
 
 **Features:**
 - 🌱 Crop Recommendation
