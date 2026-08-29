@@ -1,12 +1,38 @@
+<!-- ===================== PROFILE HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Subhradip%20Bhunia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20BCA%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=20">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Subhradip%20Bhunia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20BCA%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=20">
 
 </div>
 
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhradip+Bhunia;Web+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;MERN+Stack+Developer+%F0%9F%8C%90;Always+Learning+New+Technologies+%F0%9F%9A%80">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhradip+Bhunia;Web+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;MERN+Stack+Developer+%F0%9F%8C%90;Software+Developer+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%92%A1">
+
+</div>
+
+<br>
+
+
+<!-- ===================== SOCIAL BUTTONS ===================== -->
+
+<div align="center">
+
+<a href="https://github.com/subhrabhunia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
@@ -14,231 +40,303 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hi! I'm **Subhradip Bhunia**, a BCA student and passionate developer who loves building websites, applications, and real-world projects.
+Hi! I'm **Subhradip Bhunia**, a BCA student and passionate developer who loves creating websites, applications, and real-world software projects.
+
+I enjoy learning new technologies, solving programming problems, and turning ideas into useful applications.
 
 - 🎓 BCA Student
 - 💻 Web Developer
 - 🐍 Python Developer
 - 🌐 MERN Stack Developer
-- 🚀 Interested in Software Development
+- ☕ Java Developer
+- 🚀 Software Development Enthusiast
 - 📚 Always learning new technologies
-- 💡 Love turning ideas into projects
+- 💡 Love building real-world projects
+- 🔥 Interested in AI, ML and Full Stack Development
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js">
-</p>
 
-### 🌐 Web Development
+</div>
 
-<p align="center">
+<br>
+
+## 🌐 Web Development
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind">
-</p>
 
-### 🗄️ Database
+</div>
 
-<p align="center">
+<br>
+
+## 🗄️ Database
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql">
-</p>
 
-### 🔧 Tools
+</div>
 
-<p align="center">
+<br>
+
+## 🔧 Tools & Platforms
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux">
-</p>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 😷 Mask Detection System
+## 😷 Mask Detection System
 
-An AI-based system that detects whether a person is wearing a face mask or not.
+An AI-based system designed to detect whether a person is wearing a face mask or not.
 
-**Technologies:**
+### 🧰 Technologies
 
 `Python` `OpenCV` `Machine Learning`
 
-**Features:**
+### ✨ Features
 
 - 😷 Face Mask Detection
 - 📷 Real-time Camera Detection
 - 🤖 AI-based Image Processing
 - ⚡ Fast Detection
+- 🖼️ Image Processing
 
-<p>
-<a href="https://github.com/subhrabhunia">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+<div align="center">
+
+<a href="YOUR_MASK_DETECTION_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
+
+</div>
 
 ---
 
-### 📸 Photography Website
+## 📸 Photography Website
 
-A modern and responsive photography portfolio website.
+A modern and responsive photography portfolio website created to showcase photography, creative work, and visual stories.
 
-**Technologies:**
+### 🧰 Technologies
 
 `HTML` `CSS` `JavaScript`
 
-**Features:**
+### ✨ Features
 
 - 📷 Photography Gallery
 - 🖼️ Image Showcase
 - 📱 Responsive Design
 - 🎨 Modern UI
 - 🌐 Portfolio Website
+- 📱 Mobile Friendly
 
-<p>
-<a href="YOUR_PHOTOGRAPHY_URL">
-<img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge">
+<div align="center">
+
+<a href="YOUR_PHOTOGRAPHY_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
+
+<a href="YOUR_PHOTOGRAPHY_WEBSITE_URL">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-### 🗳️ Online Voting System
+## 🗳️ Online Voting System
 
 A secure online voting platform developed using the MERN Stack.
 
-**Technologies:**
+### 🧰 Technologies
 
 `React` `Vite` `Node.js` `Express.js` `MongoDB`
 
-**Features:**
+### ✨ Features
 
 - 👤 User Registration & Login
-- 🔐 Secure Voting
-- 🗳️ Election Management
+- 🔐 Secure Authentication
+- 🗳️ Online Voting
 - 👨‍💼 Admin Dashboard
-- 📊 Result Display
+- 📊 Election Management
+- 📈 Result Display
+- 🔒 One Vote Per User
 
-<p>
-<a href="YOUR_VOTING_URL">
-<img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge">
+<div align="center">
+
+<a href="YOUR_VOTING_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
+
+<a href="YOUR_VOTING_WEBSITE_URL">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-### 🌾 Smart Farmer Decision Support System
+## 🌾 Smart Farmer Decision Support System
 
-A smart agriculture system designed to help farmers make better decisions using technology and data.
+A smart agriculture platform designed to help farmers make better decisions using technology, data, and AI.
 
-**Technologies:**
+### 🧰 Technologies
 
 `HTML` `CSS` `JavaScript` `Python` `Node.js` `MongoDB`
 
-**Features:**
+### ✨ Features
 
 - 🌱 Crop Recommendation
 - 🌦️ Weather Suggestions
 - 🦠 Disease Detection
 - 📊 Crop Yield Prediction
+- 💰 Market Price Prediction
 - 💧 Smart Irrigation
+- 🤖 AI-Based Suggestions
 
-<p>
-<a href="YOUR_FARMER_URL">
-<img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge">
+<div align="center">
+
+<a href="YOUR_FARMER_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&hide_border=true&theme=tokyonight" width="49%">
+<a href="YOUR_FARMER_WEBSITE_URL">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=subhrabhunia&theme=tokyonight&hide_border=true" width="70%">
+<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10">
+<img src="https://streak-stats.demolab.com/?user=subhrabhunia&theme=tokyonight&hide_border=true" width="75%">
 
 </div>
 
 ---
 
-## 🐍 My Contributions
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="100%">
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🐍 My Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhrabhunia&theme=tokyo-night&hide_border=true" width="100%">
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%">
+
+</picture>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
+<a href="https://github.com/subhrabhunia">
+
+<img src="https://img.shields.io/badge/View%20GitHub%20Contribution%20Activity-667eea?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,git">
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Python` • `Git`
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- 🚀 Build more real-world projects
-- 💻 Improve Full Stack Development
-- 🧠 Improve Data Structures & Algorithms
-- 🤖 Explore AI & Machine Learning
-- 🌐 Contribute to Open Source
-- 💼 Prepare for Software Development opportunities
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🚀 Build Real-World Projects | 🔄 In Progress |
+| 💻 Improve Full Stack Development | 🔄 Learning |
+| 🧠 Master Data Structures & Algorithms | 🔄 Learning |
+| 🤖 Explore AI & Machine Learning | 🔄 Learning |
+| 🌐 Contribute to Open Source | 🎯 Planned |
+| 💼 Prepare for Software Development | 🎯 Planned |
+
+</div>
 
 ---
 
-## 📄 My Resume
+# 📄 Resume
 
 <div align="center">
 
 <a href="./resume.pdf">
-<img src="https://img.shields.io/badge/Download-Resume-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+
+<img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-667eea?style=for-the-badge&logo=readthedocs&logoColor=white">
+
 </a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -251,28 +349,42 @@ A smart agriculture system designed to help farmers make better decisions using 
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 👀 Profile Visitors
+# 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=subhrabhunia&label=Profile%20Views&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=subhrabhunia&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge">
 
 </div>
 
 ---
 
-## 💭 Developer Quote
+# 💭 Developer Quote
 
 <div align="center">
 
-> **"Code. Learn. Build. Repeat. 🚀"**
+### "Code. Learn. Build. Repeat. 🚀"
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+### 💙 Keep Coding • Keep Learning • Keep Building
+
+**Made with ❤️ by Subhradip Bhunia**
 
 </div>
 
@@ -280,14 +392,6 @@ A smart agriculture system designed to help farmers make better decisions using 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile!
-
-**Made with ❤️ by Subhradip Bhunia**
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=130&section=footer">
 
 </div>
