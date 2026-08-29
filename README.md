@@ -98,10 +98,6 @@ A modern and responsive photography portfolio website designed to showcase photo
 - 🌐 Portfolio Website
 
 <p>
-<a href="https://github.com/subhrabhunia">
-<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="YOUR_PHOTOGRAPHY_WEBSITE_URL">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge">
 </a>
@@ -126,10 +122,6 @@ A secure online voting platform developed using the MERN Stack.
 - 📊 Result Display
 
 <p>
-<a href="https://github.com/subhrabhunia">
-<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="YOUR_VOTING_SYSTEM_URL">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge">
 </a>
@@ -154,10 +146,6 @@ A smart agriculture system designed to help farmers make better decisions using 
 - 💧 Smart Irrigation
 
 <p>
-<a href="https://github.com/subhrabhunia">
-<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="YOUR_FARMER_PROJECT_URL">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge">
 </a>
@@ -203,7 +191,7 @@ A smart agriculture system designed to help farmers make better decisions using 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&margin-w=10">
+<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5">
 
 </div>
 
