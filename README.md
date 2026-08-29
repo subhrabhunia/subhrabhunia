@@ -48,7 +48,7 @@ Hi! I'm **Subhradip Bhunia**, a BCA student and passionate developer who loves b
 <img src="https://skillicons.dev/icons?i=mongodb,mysql">
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux">
@@ -75,7 +75,7 @@ An AI-based system that detects whether a person is wearing a face mask or not.
 
 <p>
 <a href="https://github.com/subhrabhunia">
-<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
@@ -83,7 +83,7 @@ An AI-based system that detects whether a person is wearing a face mask or not.
 
 ### 📸 Photography Website
 
-A modern and responsive photography portfolio website designed to showcase photography, creative work, and visual stories.
+A modern and responsive photography portfolio website.
 
 **Technologies:**
 
@@ -98,8 +98,8 @@ A modern and responsive photography portfolio website designed to showcase photo
 - 🌐 Portfolio Website
 
 <p>
-<a href="YOUR_PHOTOGRAPHY_WEBSITE_URL">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge">
+<a href="YOUR_PHOTOGRAPHY_URL">
+<img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge">
 </a>
 </p>
 
@@ -122,8 +122,8 @@ A secure online voting platform developed using the MERN Stack.
 - 📊 Result Display
 
 <p>
-<a href="YOUR_VOTING_SYSTEM_URL">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge">
+<a href="YOUR_VOTING_URL">
+<img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge">
 </a>
 </p>
 
@@ -146,22 +146,10 @@ A smart agriculture system designed to help farmers make better decisions using 
 - 💧 Smart Irrigation
 
 <p>
-<a href="YOUR_FARMER_PROJECT_URL">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge">
+<a href="YOUR_FARMER_URL">
+<img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge">
 </a>
 </p>
-
----
-
-## 📄 My Resume
-
-<div align="center">
-
-<a href="./resume.pdf">
-<img src="https://img.shields.io/badge/📄%20Download%20Resume-667eea?style=for-the-badge">
-</a>
-
-</div>
 
 ---
 
@@ -169,9 +157,9 @@ A smart agriculture system designed to help farmers make better decisions using 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&hide_border=true&theme=tokyonight" width="49%">
 
 </div>
 
@@ -181,7 +169,7 @@ A smart agriculture system designed to help farmers make better decisions using 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=subhrabhunia&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=subhrabhunia&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
 
@@ -191,7 +179,7 @@ A smart agriculture system designed to help farmers make better decisions using 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5">
+<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10">
 
 </div>
 
@@ -201,7 +189,17 @@ A smart agriculture system designed to help farmers make better decisions using 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%">
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhrabhunia&theme=tokyo-night&hide_border=true" width="100%">
 
 </div>
 
@@ -211,15 +209,7 @@ A smart agriculture system designed to help farmers make better decisions using 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,git">
 
 </p>
 
@@ -228,11 +218,23 @@ A smart agriculture system designed to help farmers make better decisions using 
 ## 🎯 2026 Goals
 
 - 🚀 Build more real-world projects
-- 💻 Improve Full Stack Development skills
-- 🧠 Learn advanced programming concepts
-- 🤖 Explore Artificial Intelligence & Machine Learning
+- 💻 Improve Full Stack Development
+- 🧠 Improve Data Structures & Algorithms
+- 🤖 Explore AI & Machine Learning
 - 🌐 Contribute to Open Source
 - 💼 Prepare for Software Development opportunities
+
+---
+
+## 📄 My Resume
+
+<div align="center">
+
+<a href="./resume.pdf">
+<img src="https://img.shields.io/badge/Download-Resume-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+</div>
 
 ---
 
