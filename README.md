@@ -271,13 +271,15 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
 
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%">
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"
+width="100%"
+>
 
 </picture>
 
 </div>
-
----
 
 ---
 
@@ -346,7 +348,19 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <a href="./resume.pdf">
 
-<img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-667eea?style=for-the-badge&logo=readthedocs&logoColor=white">
+<img src="https://img.shields.io/badge/📄%20VIEW%20%2F%20DOWNLOAD%20RESUME-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="./resume.pdf">
+
+**📥 Click Here to View / Download My Resume**
 
 </a>
 
@@ -359,21 +373,15 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <div align="center">
 
 <a href="https://github.com/subhrabhunia">
-
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">
-
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-
+<a href="https://www.linkedin.com/in/subhradipbhunia/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-
+<a href="mailto:smya9971@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
 </a>
 
 </div>
