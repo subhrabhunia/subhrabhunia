@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Subhrabhunia**, a BCA student and passionate developer who loves building websites, applications, and real-world projects.
+Hi! I'm **Subhradipbhunia**, a BCA student and passionate developer who loves building websites, applications, and real-world projects.
 
 - 🎓 BCA Student
 - 💻 Web Developer
