@@ -271,15 +271,13 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
 
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"
-width="100%"
->
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%">
 
 </picture>
 
 </div>
+
+---
 
 ---
 
