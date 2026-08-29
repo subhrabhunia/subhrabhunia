@@ -1,14 +1,26 @@
-# 👋 Hi, I'm Subhradip Bhunia
+<!-- PROFILE HEADER -->
 
-### 💻 BCA Student | Web Developer | Software Developer
+<div align="center">
 
-Welcome to my GitHub Profile! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Subhrabhunia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20BCA%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=20">
 
-I am a BCA student passionate about Web Development, Software Development and Programming.
+</div>
 
----
+<!-- TYPING ANIMATION -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhrabhunia;Web+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;MERN+Stack+Developer+%F0%9F%8C%90;Always+Learning+New+Technologies+%F0%9F%9A%80">
+
+</div>
+
+<br>
+
+<!-- ABOUT ME -->
 
 ## 👨‍💻 About Me
+
+Hi! I'm **Subhrabhunia**, a BCA student and passionate developer who loves building websites, applications, and real-world projects.
 
 - 🎓 BCA Student
 - 💻 Web Developer
@@ -16,41 +28,54 @@ I am a BCA student passionate about Web Development, Software Development and Pr
 - 🌐 MERN Stack Developer
 - 🚀 Interested in Software Development
 - 📚 Always learning new technologies
+- 💡 Love turning ideas into projects
 
 ---
 
-## 🛠️ Skills
+<!-- SKILLS -->
 
-### Programming Languages
+## 🛠️ Skills & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js">
 </p>
 
-### Web Development
+### 🌐 Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind">
 </p>
 
-### Tools
+### 🗄️ Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql">
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux">
 </p>
 
 ---
 
-## 🚀 Projects
+<!-- PROJECTS -->
+
+## 🚀 Featured Projects
 
 ### 😷 Mask Detection System
 
-An AI-based Mask Detection System that detects whether a person is wearing a face mask or not.
+An AI-based system that detects whether a person is wearing a face mask or not.
 
 **Technologies:**
-Python • OpenCV • Machine Learning
+
+`Python` `OpenCV` `Machine Learning`
 
 **Features:**
+
 - 😷 Face Mask Detection
 - 📷 Real-time Camera Detection
 - 🤖 AI-based Image Processing
@@ -60,12 +85,14 @@ Python • OpenCV • Machine Learning
 
 ### 📸 Photography Website
 
-A modern and responsive photography website designed to showcase photography, creative work, and visual stories.
+A modern and responsive photography portfolio website designed to showcase photography, creative work, and visual stories.
 
 **Technologies:**
-HTML • CSS • JavaScript
+
+`HTML` `CSS` `JavaScript`
 
 **Features:**
+
 - 📷 Photography Gallery
 - 🖼️ Image Showcase
 - 📱 Responsive Design
@@ -76,12 +103,14 @@ HTML • CSS • JavaScript
 
 ### 🗳️ Online Voting System
 
-A secure Online Voting System developed using the MERN Stack.
+A secure online voting platform developed using the MERN Stack.
 
 **Technologies:**
-React • Vite • Node.js • Express.js • MongoDB
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB`
 
 **Features:**
+
 - 👤 User Registration & Login
 - 🔐 Secure Voting
 - 🗳️ Election Management
@@ -95,9 +124,11 @@ React • Vite • Node.js • Express.js • MongoDB
 A smart agriculture system designed to help farmers make better decisions using technology and data.
 
 **Technologies:**
-HTML • CSS • JavaScript • Python • Node.js • MongoDB
+
+`HTML` `CSS` `JavaScript` `Python` `Node.js` `MongoDB`
 
 **Features:**
+
 - 🌱 Crop Recommendation
 - 🌦️ Weather Suggestions
 - 🦠 Disease Detection
@@ -106,64 +137,53 @@ HTML • CSS • JavaScript • Python • Node.js • MongoDB
 
 ---
 
-## 🌱 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Python
-- Data Structures & Algorithms
-- Git & GitHub
-
----
+<!-- GITHUB STATISTICS -->
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight" height="180">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&theme=tokyonight" height="180">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+</div>
 
 ---
+
+<!-- STREAK -->
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=subhrabhunia&theme=tokyonight">
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=subhrabhunia&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- CONTRIBUTION SNAKE -->
 
-<p align="left">
+## 🐍 My Contributions
 
-<a href="https://github.com/subhrabhunia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
-</p>
+</div>
 
 ---
 
-## 👀 Profile Visitors
+<!-- CURRENTLY LEARNING -->
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=subhrabhunia&label=Profile%20Views&style=flat">
-</p>
+## 🌱 Currently Learning
 
----
-
-<p align="center">
-⭐ Thanks for visiting my GitHub Profile!
-</p>
-
-<p align="center">
-💻 Built with ❤️ by <b>Subhrabhunia</b>
-</p>
+```text
+React.js
+Node.js
+Express.js
+MongoDB
+Python
+Data Structures & Algorithms
+Git & GitHub
