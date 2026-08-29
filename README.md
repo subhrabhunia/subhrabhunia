@@ -1,13 +1,8 @@
-<!-- ===================== PROFILE HEADER ===================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Subhradip%20Bhunia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20BCA%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=20">
 
 </div>
-
-
-<!-- ===================== TYPING ANIMATION ===================== -->
 
 <div align="center">
 
@@ -16,9 +11,6 @@
 </div>
 
 <br>
-
-
-<!-- ===================== SOCIAL BUTTONS ===================== -->
 
 <div align="center">
 
@@ -54,7 +46,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 - 🚀 Software Development Enthusiast
 - 📚 Always learning new technologies
 - 💡 Love building real-world projects
-- 🔥 Interested in AI, ML and Full Stack Development
+- 🤖 Interested in AI & Machine Learning
 
 ---
 
@@ -121,7 +113,9 @@ An AI-based system designed to detect whether a person is wearing a face mask or
 <div align="center">
 
 <a href="YOUR_MASK_DETECTION_REPOSITORY_URL">
+
 <img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </div>
@@ -148,11 +142,15 @@ A modern and responsive photography portfolio website created to showcase photog
 <div align="center">
 
 <a href="YOUR_PHOTOGRAPHY_REPOSITORY_URL">
+
 <img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 <a href="YOUR_PHOTOGRAPHY_WEBSITE_URL">
+
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+
 </a>
 
 </div>
@@ -180,11 +178,15 @@ A secure online voting platform developed using the MERN Stack.
 <div align="center">
 
 <a href="YOUR_VOTING_REPOSITORY_URL">
+
 <img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 <a href="YOUR_VOTING_WEBSITE_URL">
+
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+
 </a>
 
 </div>
@@ -212,11 +214,15 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <div align="center">
 
 <a href="YOUR_FARMER_REPOSITORY_URL">
+
 <img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 <a href="YOUR_FARMER_WEBSITE_URL">
+
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+
 </a>
 
 </div>
@@ -227,9 +233,9 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%">
+<img src="./profile/stats.svg" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&theme=tokyonight&hide_border=true" width="49%">
+<img src="./profile/top-langs.svg" width="49%">
 
 </div>
 
@@ -279,7 +285,7 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <a href="https://github.com/subhrabhunia">
 
-<img src="https://img.shields.io/badge/View%20GitHub%20Contribution%20Activity-667eea?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20My%20GitHub%20Activity-667eea?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -341,15 +347,21 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <div align="center">
 
 <a href="https://github.com/subhrabhunia">
+
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
+
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 </a>
 
 </div>
@@ -375,8 +387,6 @@ A smart agriculture platform designed to help farmers make better decisions usin
 </div>
 
 <br>
-
----
 
 <div align="center">
 
