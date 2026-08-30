@@ -92,6 +92,67 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ---
 
+# 🎓 Academic Journey
+
+<div align="center">
+
+### 🎓 Bachelor of Computer Applications (BCA)
+
+**Adamas University, Kolkata**
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 📚 Semester | 📊 SGPA | 📌 Status |
+|:-----------:|:-------:|:---------:|
+| 1️⃣ Semester 1 | **5.45** | ✅ Completed |
+| 2️⃣ Semester 2 | **6.23** | ✅ Completed |
+| 3️⃣ Semester 3 | **6.81** | ✅ Completed |
+| 4️⃣ Semester 4 | **7.79** | ✅ Completed |
+| 5️⃣ Semester 5 | **8.32** | ✅ Completed |
+| 6️⃣ Semester 6 | **8.27** | ✅ Completed |
+| 7️⃣ Semester 7 | **—** | 🔄 Upcoming |
+| 8️⃣ Semester 8 | **—** | 🎯 Upcoming |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📈 Academic Progress
+
+**6 / 8 Semesters Completed** ✅
+
+**Current Status:** 6th Semester Completed 🎓
+
+**7th & 8th Semester:** Upcoming 🚀
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 Academic Snapshot
+
+| Metric | Result |
+|:------|:------:|
+| 🎓 Program | **BCA** |
+| 📚 Total Semesters | **8** |
+| ✅ Completed | **6** |
+| 🔄 Remaining | **2** |
+| 📊 Average SGPA | **6.98** |
+| 📈 Highest SGPA | **8.32** |
+| 🚀 Latest SGPA | **8.27** |
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 ## 😷 Mask Detection System
@@ -260,7 +321,31 @@ A smart agriculture platform designed to help farmers make better decisions usin
 </div>
 
 ---
-# 🐍 My Contributions <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"
+width="100%"
+>
+
+</picture>
+
+</div>
+
 ---
 
 # 📈 Contribution Activity
@@ -322,6 +407,21 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
+# 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certification | 📌 Details |
+|------------------|------------|
+| 🤖 **Gen AI Tools — NASSCOM / IT-ITeS SSC** | 🥇 Gold • **98% Score** |
+| 🤖 **Gen AI Tools — IT-ITeS SSC NASSCOM** | Certificate of Participation |
+| 💻 **Full-stack Web Developers and Back-end Developers — Coursera** | 12 Learning Hours |
+| 🚀 **30 Days Summer Internship — IgniteU** | Jun 2025 – Jul 2025 |
+
+</div>
+
+---
+
 # 📄 Resume
 
 <div align="center">
@@ -353,15 +453,21 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <div align="center">
 
 <a href="https://github.com/subhrabhunia">
+
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 <a href="https://www.linkedin.com/in/subhradipbhunia/">
+
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
 </a>
 
 <a href="mailto:smya9971@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 </a>
 
 </div>
