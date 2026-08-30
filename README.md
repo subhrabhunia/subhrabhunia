@@ -461,18 +461,6 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 </div>
 
-<br>
-
-<div align="center">
-
-<a href="./resume.pdf">
-
-**📥 Click Here to View / Download My Resume**
-
-</a>
-
-</div>
-
 ---
 
 # 🌐 Connect With Me
