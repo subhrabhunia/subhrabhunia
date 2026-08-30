@@ -356,16 +356,7 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%">
-
-</div>
-
+# 📊 GitHub Statistics <div align="center"> <img src="./profile/stats.svg" width="49%"> <img src="./profile/top-langs.svg" width="49%"> </div>
 ---
 
 # 🔥 GitHub Streak
@@ -378,52 +369,10 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="100%">
-
-</div>
+# 🏆 GitHub Achievements <div align="center"> <img src="./profile/trophy.svg" width="100%"> </div>
 
 ---
-
-# 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"
-width="100%"
->
-
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.gif"
-alt="Animated GitHub Contribution Snake"
-width="100%"
->
-
-</div>
-
+# 🐍 My Contributions <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
 ---
 
 # 📈 Contribution Activity
