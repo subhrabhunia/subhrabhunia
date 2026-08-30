@@ -1,8 +1,16 @@
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Subhradip%20Bhunia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20BCA%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=20">
 
 </div>
+
+<!-- ===================================================== -->
+<!--                  TYPING ANIMATION                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -11,6 +19,10 @@
 </div>
 
 <br>
+
+<!-- ===================================================== -->
+<!--                       SOCIALS                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -30,13 +42,25 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=subhrabhunia&label=PROFILE%20VIEWS&style=for-the-badge">
+
+</div>
+
 ---
+
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
 # 👨‍💻 About Me
 
 Hi! I'm **Subhradip Bhunia**, a passionate **BCA student, Web Developer, Python Developer and MERN Stack Developer** who enjoys building real-world applications and modern websites.
 
 I love transforming ideas into practical projects and continuously improving my programming, development and problem-solving skills.
+
+### 🚀 What I Do
 
 - 🎓 BCA Student
 - 💻 Web Developer
@@ -50,6 +74,10 @@ I love transforming ideas into practical projects and continuously improving my 
 - 💡 Problem Solver
 
 ---
+
+<!-- ===================================================== -->
+<!--                  TECHNICAL SKILLS                     -->
+<!-- ===================================================== -->
 
 # 🛠️ Skills & Technologies
 
@@ -93,6 +121,10 @@ I love transforming ideas into practical projects and continuously improving my 
 
 ---
 
+<!-- ===================================================== -->
+<!--                  ACADEMIC JOURNEY                     -->
+<!-- ===================================================== -->
+
 # 🎓 Academic Journey
 
 <div align="center">
@@ -105,7 +137,7 @@ I love transforming ideas into practical projects and continuously improving my 
 
 <br>
 
-### 📊 BCA Semester Performance
+## 📊 BCA Semester Performance
 
 <div align="center">
 
@@ -126,19 +158,39 @@ I love transforming ideas into practical projects and continuously improving my 
 
 <div align="center">
 
-| 📈 Academic Metric | Result |
-|:-------------------|:------:|
+### 📈 Academic Progress
+
+**5.45 → 6.23 → 6.81 → 7.79 → 8.32 → 8.27**
+
+<br>
+
+**6 / 8 Semesters Completed** ✅
+
+</div>
+
+<br>
+
+## 🏆 Academic Snapshot
+
+<div align="center">
+
+| 📌 Metric | 🏆 Result |
+|:---------|:---------:|
 | 🎓 Program | **BCA** |
 | 📚 Total Semesters | **8** |
 | ✅ Completed | **6** |
 | 🔄 Remaining | **2** |
-| 📊 Average SGPA | **6.98** |
+| 📊 Average SGPA | **7.15** |
 | 🏆 Highest SGPA | **8.32** |
 | 🚀 Latest SGPA | **8.27** |
 
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!--               SCHOOL ACADEMIC RECORD                  -->
+<!-- ===================================================== -->
 
 # 🏫 School Academic Performance
 
@@ -156,11 +208,11 @@ I love transforming ideas into practical projects and continuously improving my 
 | History | **90** |
 | Geography | **90** |
 | Optional Elective | **86** |
-| **Grand Total** | **604** |
+| **Grand Total** | **604 / 700** |
 
 ### 🏆 Percentage: **86.29%**
 
-### Overall Grade: **A+**
+### ⭐ Overall Grade: **A+**
 
 </div>
 
@@ -178,11 +230,11 @@ I love transforming ideas into practical projects and continuously improving my 
 | Geography | **71** |
 | Nutrition | **60** |
 | Computer Application | **68** |
-| **Grand Total** | **341** |
+| **Grand Total** | **341 / 500** |
 
 ### 🏆 Percentage: **68.20%**
 
-### Overall Grade: **B+**
+### ⭐ Overall Grade: **B+**
 
 </div>
 
@@ -211,13 +263,17 @@ I love transforming ideas into practical projects and continuously improving my 
 
 ### 📈 Academic Growth
 
-**5.45 SGPA → 8.27 SGPA**
+### **5.45 SGPA → 8.27 SGPA**
 
-🚀 **Consistent Improvement Throughout BCA**
+🚀 **Consistent Academic Progress**
 
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!--                    FEATURED PROJECTS                   -->
+<!-- ===================================================== -->
 
 # 🚀 Featured Projects
 
@@ -356,24 +412,83 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
-# 📊 GitHub Statistics <div align="center"> <img src="./profile/stats.svg" width="49%"> <img src="./profile/top-langs.svg" width="49%"> </div>
----
+<!-- ===================================================== -->
+<!--                 GITHUB STATISTICS                     -->
+<!-- ===================================================== -->
 
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=subhrabhunia&theme=tokyonight&hide_border=true" width="75%">
+<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics">
+
+<img src="./profile/top-langs.svg" width="49%" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="0">
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements <div align="center"> <img src="./profile/trophy.svg" width="100%"> </div>
+<!-- ===================================================== -->
+<!--                     GITHUB STREAK                     -->
+<!-- ===================================================== -->
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=subhrabhunia&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak">
+
+</div>
 
 ---
-# 🐍 My Contributions <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
+
+<!-- ===================================================== -->
+<!--                    ACHIEVEMENTS                        -->
+<!-- ===================================================== -->
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="./profile/trophy.svg" width="100%" alt="GitHub Achievements">
+
+</div>
+
 ---
+
+<!-- ===================================================== -->
+<!--                  CONTRIBUTION SNAKE                   -->
+<!-- ===================================================== -->
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%">
+
+</picture>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION ACTIVITY                 -->
+<!-- ===================================================== -->
 
 # 📈 Contribution Activity
 
@@ -389,6 +504,10 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
+<!-- ===================================================== -->
+<!--                  CURRENTLY LEARNING                   -->
+<!-- ===================================================== -->
+
 # 🌱 Currently Learning
 
 <div align="center">
@@ -402,27 +521,31 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <div align="center">
 
 `React.js`
-•
+&nbsp; • &nbsp;
 `Node.js`
-•
+&nbsp; • &nbsp;
 `Express.js`
-•
+&nbsp; • &nbsp;
 `MongoDB`
-•
+&nbsp; • &nbsp;
 `Python`
-•
+&nbsp; • &nbsp;
 `Git`
 
 </div>
 
 ---
 
+<!-- ===================================================== -->
+<!--                       GOALS                            -->
+<!-- ===================================================== -->
+
 # 🎯 2026 Goals
 
 <div align="center">
 
-| Goal | Status |
-|:-----|:------:|
+| 🎯 Goal | 📌 Status |
+|:--------|:---------:|
 | 🚀 Build Real-World Projects | 🔄 In Progress |
 | 💻 Improve Full Stack Development | 🔄 Learning |
 | 🧠 Master Data Structures & Algorithms | 🔄 Learning |
@@ -433,6 +556,10 @@ A smart agriculture platform designed to help farmers make better decisions usin
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!--                    CERTIFICATIONS                      -->
+<!-- ===================================================== -->
 
 # 📜 Certifications
 
@@ -449,6 +576,10 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
+<!-- ===================================================== -->
+<!--                        RESUME                          -->
+<!-- ===================================================== -->
+
 # 📄 Resume
 
 <div align="center">
@@ -461,7 +592,23 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 </div>
 
+<br>
+
+<div align="center">
+
+<a href="./resume.pdf">
+
+**📥 Click Here to View / Download My Resume**
+
+</a>
+
+</div>
+
 ---
+
+<!-- ===================================================== -->
+<!--                   CONNECT WITH ME                     -->
+<!-- ===================================================== -->
 
 # 🌐 Connect With Me
 
@@ -489,6 +636,10 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
+<!-- ===================================================== -->
+<!--                  PROFILE VISITORS                     -->
+<!-- ===================================================== -->
+
 # 👀 Profile Visitors
 
 <div align="center">
@@ -499,17 +650,23 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 ---
 
+<!-- ===================================================== -->
+<!--                    DEVELOPER QUOTE                    -->
+<!-- ===================================================== -->
+
 # 💭 Developer Quote
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat. 🚀"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=667EEA&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Keep+Learning%2C+Keep+Building+%F0%9F%94%A5">
 
 </div>
 
-<br>
-
 ---
+
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
 
 <div align="center">
 
