@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhradip+Bhunia;Web+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;MERN+Stack+Developer+%F0%9F%8C%90;Software+Developer+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%92%A1">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhradip+Bhunia;Web+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;MERN+Stack+Developer+%F0%9F%8C%90;Software+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Technologies+%F0%9F%92%A1">
 
 </div>
 
@@ -34,19 +34,20 @@
 
 # 👨‍💻 About Me
 
-Hi! I'm **Subhradip Bhunia**, a BCA student and passionate developer who loves creating websites, applications, and real-world software projects.
+Hi! I'm **Subhradip Bhunia**, a passionate **BCA student, Web Developer, Python Developer and MERN Stack Developer** who enjoys building real-world applications and modern websites.
 
-I enjoy learning new technologies, solving programming problems, and turning ideas into useful applications.
+I love transforming ideas into practical projects and continuously improving my programming, development and problem-solving skills.
 
 - 🎓 BCA Student
 - 💻 Web Developer
 - 🐍 Python Developer
 - 🌐 MERN Stack Developer
 - ☕ Java Developer
-- 🚀 Software Development Enthusiast
-- 📚 Always learning new technologies
-- 💡 Love building real-world projects
-- 🤖 Interested in AI & Machine Learning
+- 🤖 AI & Machine Learning Enthusiast
+- 🔐 Interested in Software & Technology
+- 🚀 Building Real-World Projects
+- 📚 Continuous Learner
+- 💡 Problem Solver
 
 ---
 
@@ -96,13 +97,15 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 <div align="center">
 
-### 🎓 Bachelor of Computer Applications (BCA)
+### 🎓 Bachelor of Computer Applications
 
 **Adamas University, Kolkata**
 
 </div>
 
 <br>
+
+### 📊 BCA Semester Performance
 
 <div align="center">
 
@@ -123,13 +126,82 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 <div align="center">
 
-### 📈 Academic Progress
+| 📈 Academic Metric | Result |
+|:-------------------|:------:|
+| 🎓 Program | **BCA** |
+| 📚 Total Semesters | **8** |
+| ✅ Completed | **6** |
+| 🔄 Remaining | **2** |
+| 📊 Average SGPA | **6.98** |
+| 🏆 Highest SGPA | **8.32** |
+| 🚀 Latest SGPA | **8.27** |
 
-**6 / 8 Semesters Completed** ✅
+</div>
 
-**Current Status:** 6th Semester Completed 🎓
+---
 
-**7th & 8th Semester:** Upcoming 🚀
+# 🏫 School Academic Performance
+
+## 📘 Madhyamik Examination — 2021
+
+<div align="center">
+
+| Subject | Marks |
+|:--------|------:|
+| First Language | **85** |
+| Second Language | **85** |
+| Mathematics | **84** |
+| Physical Science | **85** |
+| Life Science | **85** |
+| History | **90** |
+| Geography | **90** |
+| Optional Elective | **86** |
+| **Grand Total** | **604** |
+
+### 🏆 Percentage: **86.29%**
+
+### Overall Grade: **A+**
+
+</div>
+
+---
+
+## 📕 Higher Secondary Examination — 2023
+
+<div align="center">
+
+| Subject | Marks |
+|:--------|------:|
+| Bengali | **60** |
+| English | **82** |
+| Biology | **52** |
+| Geography | **71** |
+| Nutrition | **60** |
+| Computer Application | **68** |
+| **Grand Total** | **341** |
+
+### 🏆 Percentage: **68.20%**
+
+### Overall Grade: **B+**
+
+</div>
+
+---
+
+# 📚 Complete Academic Summary
+
+<div align="center">
+
+| 🎓 Qualification | 📅 Year | 📊 Marks / SGPA | 📈 Percentage |
+|:-----------------|:-------:|:---------------:|:-------------:|
+| Madhyamik | 2021 | **604 / 700** | **86.29%** |
+| Higher Secondary | 2023 | **341 / 500** | **68.20%** |
+| BCA Semester 1 | — | **5.45 SGPA** | — |
+| BCA Semester 2 | — | **6.23 SGPA** | — |
+| BCA Semester 3 | — | **6.81 SGPA** | — |
+| BCA Semester 4 | — | **7.79 SGPA** | — |
+| BCA Semester 5 | — | **8.32 SGPA** | — |
+| BCA Semester 6 | — | **8.27 SGPA** | — |
 
 </div>
 
@@ -137,17 +209,11 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 <div align="center">
 
-### 🏆 Academic Snapshot
+### 📈 Academic Growth
 
-| Metric | Result |
-|:------|:------:|
-| 🎓 Program | **BCA** |
-| 📚 Total Semesters | **8** |
-| ✅ Completed | **6** |
-| 🔄 Remaining | **2** |
-| 📊 Average SGPA | **6.98** |
-| 📈 Highest SGPA | **8.32** |
-| 🚀 Latest SGPA | **8.27** |
+**5.45 SGPA → 8.27 SGPA**
+
+🚀 **Consistent Improvement Throughout BCA**
 
 </div>
 
@@ -157,7 +223,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ## 😷 Mask Detection System
 
-An AI-based system designed to detect whether a person is wearing a face mask or not.
+An AI-based computer vision project designed to detect whether a person is wearing a face mask.
 
 ### 🧰 Technologies
 
@@ -166,8 +232,8 @@ An AI-based system designed to detect whether a person is wearing a face mask or
 ### ✨ Features
 
 - 😷 Face Mask Detection
-- 📷 Real-time Camera Detection
-- 🤖 AI-based Image Processing
+- 📷 Real-Time Camera Detection
+- 🤖 AI-Based Image Processing
 - ⚡ Fast Detection
 - 🖼️ Image Processing
 
@@ -185,7 +251,7 @@ An AI-based system designed to detect whether a person is wearing a face mask or
 
 ## 📸 Photography Website
 
-A modern and responsive photography portfolio website created to showcase photography, creative work, and visual stories.
+A modern and responsive photography portfolio website designed to showcase photography, creative work and visual stories.
 
 ### 🧰 Technologies
 
@@ -195,8 +261,8 @@ A modern and responsive photography portfolio website created to showcase photog
 
 - 📷 Photography Gallery
 - 🖼️ Image Showcase
-- 📱 Responsive Design
 - 🎨 Modern UI
+- 📱 Responsive Design
 - 🌐 Portfolio Website
 - 📱 Mobile Friendly
 
@@ -256,7 +322,7 @@ A secure online voting platform developed using the MERN Stack.
 
 ## 🌾 Smart Farmer Decision Support System
 
-A smart agriculture platform designed to help farmers make better decisions using technology, data, and AI.
+A smart agriculture platform designed to help farmers make better decisions using technology, data and AI.
 
 ### 🧰 Technologies
 
@@ -294,9 +360,9 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%">
 
-<img src="./profile/top-langs.svg" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrabhunia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%">
 
 </div>
 
@@ -316,13 +382,48 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <div align="center">
 
-<img src="./profile/trophy.svg" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=subhrabhunia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="100%">
 
 </div>
 
 ---
 
-# 🐍 My Contributions <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
+# 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.svg"
+width="100%"
+>
+
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.gif"
+alt="Animated GitHub Contribution Snake"
+width="100%"
+>
+
+</div>
+
 ---
 
 # 📈 Contribution Activity
@@ -331,7 +432,7 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 <a href="https://github.com/subhrabhunia">
 
-<img src="https://img.shields.io/badge/View%20My%20GitHub%20Activity-667eea?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/📊%20View%20GitHub%20Activity-667eea?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -372,7 +473,7 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <div align="center">
 
 | Goal | Status |
-|------|--------|
+|:-----|:------:|
 | 🚀 Build Real-World Projects | 🔄 In Progress |
 | 💻 Improve Full Stack Development | 🔄 Learning |
 | 🧠 Master Data Structures & Algorithms | 🔄 Learning |
@@ -389,7 +490,7 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <div align="center">
 
 | 🏅 Certification | 📌 Details |
-|------------------|------------|
+|:-----------------|:-----------|
 | 🤖 **Gen AI Tools — NASSCOM / IT-ITeS SSC** | 🥇 Gold • **98% Score** |
 | 🤖 **Gen AI Tools — IT-ITeS SSC NASSCOM** | Certificate of Participation |
 | 💻 **Full-stack Web Developers and Back-end Developers — Coursera** | 12 Learning Hours |
