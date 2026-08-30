@@ -426,14 +426,6 @@ A smart agriculture platform designed to help farmers make better decisions usin
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhrabhunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="0">
-
-</div>
-
 ---
 
 <!-- ===================================================== -->
@@ -587,18 +579,6 @@ A smart agriculture platform designed to help farmers make better decisions usin
 <a href="./resume.pdf">
 
 <img src="https://img.shields.io/badge/📄%20VIEW%20%2F%20DOWNLOAD%20RESUME-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="./resume.pdf">
-
-**📥 Click Here to View / Download My Resume**
 
 </a>
 
