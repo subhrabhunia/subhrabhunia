@@ -346,6 +346,18 @@ width="100%"
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/subhrabhunia/subhrabhunia/output/github-contribution-grid-snake.gif"
+alt="GitHub Contribution Snake Animation"
+width="100%"
+>
+
+</div>
+
 ---
 
 # 📈 Contribution Activity
